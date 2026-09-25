@@ -1,0 +1,19 @@
+name: vorzela_screenutil
+description: Fast ScreenUtil-compatible responsive scaling (.w/.h/.sp) using sizeOf and cached ratios.
+version: 0.1.1
+homepage: https://github.com/vorzela/vorzela_screenutil
+repository: https://github.com/vorzela/vorzela_screenutil
+license: MIT
+
+environment:
+  sdk: ^3.3.0
+  flutter: ">=3.16.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

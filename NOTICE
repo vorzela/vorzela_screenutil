@@ -1,0 +1,13 @@
+vorzela_screenutil
+Copyright (c) 2026 Vorzela
+
+This package reimplements a ScreenUtil-compatible API (.w / .h / .sp / ScreenUtilInit)
+inspired by flutter_screenutil (https://github.com/OpenFlutter/flutter_screenutil)
+by 李卓原 / OpenFlutter, licensed under the Apache License, Version 2.0.
+
+You may obtain a copy of the Apache License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Performance-oriented changes (MediaQuery.sizeOf, cached scale ratios, optional
+TextScaler respect) are original to Vorzela.
